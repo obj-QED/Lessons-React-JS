@@ -1,0 +1,5 @@
+{
+    "google-translate.firstLanguage": "ru",
+    "google-translate.maxSizeOfResult": 120,
+    "google-translate.serverDomain": "https://translate.google.com"
+}
